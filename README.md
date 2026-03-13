@@ -167,6 +167,6 @@ Potential enhancements for the project include:
 
 # 👨‍💻 Author
 
-**Nakul**
+**Nakul Gupta**
 
 This project demonstrates how **Power BI can transform raw airline data into meaningful business insights through interactive dashboards and visual storytelling.**
