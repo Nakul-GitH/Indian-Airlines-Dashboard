@@ -133,8 +133,7 @@ Some notable insights discovered from the dashboard:
 # 📷 Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard]([dashboard.png](https://github.com/Nakul-GitH/Indian-Airlines-Dashboard/blob/main/Snapshot%20of%20Airlines%20Dashboard.jpg))
-
+![Main Dashboard](https://github.com/Nakul-GitH/Indian-Airlines-Dashboard/blob/main/Snapshot%20of%20Airlines%20Dashboard.jpg)
 
 ---
 
